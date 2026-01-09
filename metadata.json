@@ -1,0 +1,5 @@
+{
+  "name": "3D幻境 - AI 设计助理",
+  "description": "一个专业的 3D 打印模型设计助手，能够根据客户需求生成可直接用于 FDM 打印的设计方案和打印参数建议。",
+  "requestFramePermissions": []
+}
